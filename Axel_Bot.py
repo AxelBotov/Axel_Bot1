@@ -7,7 +7,7 @@ from aiogram.types import Message, InlineKeyboardButton, InlineKeyboardMarkup, C
 from aiogram.filters import Command
 
 # 🔑 Укажи токен своего бота
-BOT_TOKEN = "7987484184:AAE6t7YiCDpb7dhyY4pugJdrh9KRCdq-IQk"
+BOT_TOKEN = "Token"
 
 # 📊 Список доступных криптовалют
 CRYPTO_LIST = ["BTCUSDT", "TONUSDT", "ETHUSDT", "SOLUSDT", "USDTUSDT"]
